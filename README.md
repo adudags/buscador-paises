@@ -23,6 +23,10 @@ Mostra informações básicas sobre cada país de forma simples e intuitiva.
 - Requests (API REST)
 
 ---
+## 🌐 Link do app online
+
+[Veja o app funcionando no Streamlit Cloud]([https://seu-app.streamlit.app](https://buscador-paises-klnvqx6swbpgqugvvzrmqn.streamlit.app/))
+
 
 ## 🚀 Como rodar localmente
 
